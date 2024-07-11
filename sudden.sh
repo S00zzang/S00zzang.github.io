@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=~/temp/_SUDDEN
+FILE=~/temp/git_study/_SUDDEN
 
 while true
 do
@@ -9,6 +9,7 @@ if [[ -f "$FILE" ]]; then
    	echo "check $FILE"
 	#else 
 	#clear
+	#figlet FILE
 	#date	##만일 파일이 없다면 date 반환
 fi
 	sleep 3
