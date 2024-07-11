@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=~/temp/S00zzang.github.io/_SUDDEN
+FILE=~/temp/_SUDDEN
 #DATE=$(date +"%Y%m%d %H:%M:%S")
 
 while true
