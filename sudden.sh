@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=~/temp/_SUDDEN
+FILE=~/temp/git_study/_SUDDEN
 
 while true
 do
